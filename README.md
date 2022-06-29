@@ -1,2 +1,3 @@
-# ImageClassification for the Classification of Happy and Sad Pictures
+# ImageClassification 
+ the Classification of Happy and Sad Pictures
 
